@@ -1,4 +1,6 @@
 this is main.txt
 this is first commit
 
-this is branch 1
+
+this is branch 2
+
